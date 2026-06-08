@@ -33,3 +33,22 @@ cd Takbir-CC-Camera-Scanner
 ```bash
 python takbir_cc_camera_scan.py
 ```
+
+
+# 🛠️ Features
+
+​WiFi Device Scanning: Detects all connected devices, MAC addresses, and vendors on the network.
+​CC-Camera Detection: Scans specific open ports and signatures (80, 554, 8000, 37777, etc.) to discover IP cameras, DVRs, and NVRs.
+​Rich UI: Beautifully formatted tables and terminal banners.
+
+
+## Developer
+
+​Name: Takbir Ahmed
+
+​GitHub: takbirahmed09
+
+Facebook : https://facebook.com/termuxboytakbir
+
+## Disclaimer
+This tool is developed for educational and ethical security testing purposes only. Do not use it on networks without proper authorization. The developer is not responsible for any misuse.
