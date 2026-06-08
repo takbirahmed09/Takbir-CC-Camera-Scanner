@@ -12,3 +12,24 @@ Run the following commands one by one in your terminal to install and launch the
 ```bash
 pkg update && pkg upgrade -y
 pkg install python nmap git -y
+```
+
+## 2. Install Python Required Libraries
+```bash
+pip install rich python-nmap
+```
+
+## 3. Clone the Repository
+```bash
+git clone https://github.com/takbirahmed09/Takbir-CC-Camera-Scanner
+```
+
+## 4. Navigate to the Directory
+```bash
+cd Takbir-CC-Camera-Scanner
+```
+
+## 5. Run the Script
+```bash
+python takbir_cc_camera_scan.py
+```
